@@ -2,7 +2,7 @@
 ## Banco de Dados do Interclasse
 Este projeto, sob a supervisão de Lucas Paiva e Wellington Fabio, tem como objetivo a criação de um banco de dados sobre o interclasse de 2024. O sistema é composto por 6 tabelas que gerenciam os dados relevantes sobre os jogos.
 > [!IMPORTANT]
-> Algumas inforções do banco de dados são **fictícias**
+> Algumas inforções do banco de dados são **fictícias**!
 
 # Sumário
 - [Banco de dados](interclasse.sql).
