@@ -6,7 +6,7 @@ Este projeto, sob a supervisão de Lucas Paiva e Wellington Fabio, tem como obje
 
 # Sumário
 - [Banco de dados](interclasse.sql).
-- [Diagrama](diagrama.sql).
+- [Diagrama](Diagrama.jpeg).
 
 # Créditos
 
